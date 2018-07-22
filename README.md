@@ -1,2 +1,4 @@
 # Project-1
-Group Project 1 with Beka and Kalsoom
+Filis Coba, Kalsoom Malik, Beka Hajimohammed.
+
+This is our final file. We can all link the Project-1 repo url to Bootcamp spot. 
